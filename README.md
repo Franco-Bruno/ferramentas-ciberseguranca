@@ -44,5 +44,5 @@ dependendo do alvo pode trazer um grande prejuízo se for uma corporação ou ó
 sempre atualizados, assim como um firewall bem configurado para bloquear as tentativas de acesso mal sucedidas e também, orientar aos usuários
 que criem senhas fortes com isso a segurança na rede aumenta.
 
-Nesse mesmo projeto foram feitos laboratórios com testes a ataque para a web utilizando o DVWA e também técnicas de password sprayng em SMB. Os testes podem ser 
-visto na pasta imagens.
+Nesse mesmo projeto foram feitos laboratórios com automação de tentativas em formulário web (DVWA) e também técnicas de password sprayng em SMB com enumeração de usuários. Os testes podem ser 
+vistos na pasta imagens.
