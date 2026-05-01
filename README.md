@@ -6,7 +6,7 @@ da empresa.
 
 Neste cenário, foram utilizadas duas máquinas virtuais sendo elas: Kali e Metasploitable2.
 
-(imagem das maquinas virtuais)
+![image alt](https://github.com/Franco-Bruno/ferramentas-ciberseguranca/blob/7a7de9bfab4630ba9869961550c503fa5567fe70/imagens/kali-meta.png)
 
 Neste segundo momento, após a configuração foi testado o comando ping para ambas as máquinas para termos certeza que estão visíveis e tem comunicação entre elas.
 
